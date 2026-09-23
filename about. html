@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About - George Graphics</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h1>About George Graphics</h1>
+<p>George Graphics is a creative graphic design brand based in Lagos, Nigeria. Founded by George, a passionate designer with over 3 years of experience, I help small businesses, startups, and individuals create visual identities that stand out.</p><br>
+<p>My mission is simple: to provide affordable, high-quality, and modern designs for every Nigerian business. We believe good design should not be expensive.</p><br>
+<p>I specialize in Logo Design, Flyer Design, Poster Design, Social Media Designs, and Business Cards. Every design is made with creativity and attention to detail.</p><br>
+<p>Thank you for visiting my website. Let's create something awesome together.</p>
+<br><a href="index.html">← Back to Home</a>
+<footer><p>© 2026 George Graphics</p></footer>
+</div>
+</body>
+</html>
